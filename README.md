@@ -1,0 +1,2 @@
+# Etwasel
+ Etsatel is a web platform designed to facilitate user-to-vendor interactions for buying and selling goods. With its user-friendly interface, Etsatel simplifies the process of registering both as a user and as a vendor. Users can easily browse through a variety of products listed by vendors and make purchases seamlessly. Vendors can showcase their products and reach a wider audience, enhancing their sales opportunities.
